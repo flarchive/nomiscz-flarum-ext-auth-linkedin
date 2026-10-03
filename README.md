@@ -2,13 +2,15 @@
 
 > **Read-only archive of released versions of nomiscz/flarum-ext-auth-linkedin.** Not for installation: use [Packagist](https://packagist.org/packages/nomiscz/flarum-ext-auth-linkedin) or the [upstream repository](https://github.com/NomisCZ/flarum-ext-auth-linkedin).
 
-**0** versions archived · Latest: [`v0.1.2`](https://github.com/flarchive/nomiscz-flarum-ext-auth-linkedin/tree/archive/v0.1.2) · License: `MIT` · Flarum: `^0.1.0-beta.8`
+**3** versions archived · Latest: [`v0.1.2`](https://github.com/flarchive/nomiscz-flarum-ext-auth-linkedin/tree/archive/v0.1.2) · License: `MIT` · Flarum: `^0.1.0-beta.8`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `v0.1.0-beta.8.0` | 2019-06-03 | `^0.1.0-beta.8` | [Browse](https://github.com/flarchive/nomiscz-flarum-ext-auth-linkedin/tree/archive/v0.1.0-beta.8.0) |
+| `v0.1.1` | 2019-12-27 | `^0.1.0-beta.8` | [Browse](https://github.com/flarchive/nomiscz-flarum-ext-auth-linkedin/tree/archive/v0.1.1) |
+| `v0.1.2` | 2020-02-22 | `^0.1.0-beta.8` | [Browse](https://github.com/flarchive/nomiscz-flarum-ext-auth-linkedin/tree/archive/v0.1.2) |
 
 Catalog entry: [packages/nomiscz-flarum-ext-auth-linkedin.json](https://github.com/flarchive/archive-index/blob/main/packages/nomiscz-flarum-ext-auth-linkedin.json)
 
